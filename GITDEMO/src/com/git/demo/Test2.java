@@ -7,7 +7,7 @@ public static void main(String[] args) {
 
 
 public static void m1 () {
-	System.out.println(" Test2 m1 method added  by dev");
+	System.out.println(" Test2 m1 method added  by dev : 1234");
 }
 
 
