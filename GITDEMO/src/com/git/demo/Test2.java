@@ -35,4 +35,12 @@ public static void m33 () {
 	System.out.println("   m3 method added 50 % code");
  
 }
+
+public static void m4() {
+	  
+	System.out.println("   m4 method added 50 % code");
+ 
+}
+
+
 }
