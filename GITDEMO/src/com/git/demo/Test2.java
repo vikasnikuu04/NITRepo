@@ -18,4 +18,11 @@ public static void m11 () {
 	System.out.println(" abc123 TL");
 }
 
+
+public static void m2 () {
+  
+	System.out.println("   m2 method added  by dev in OTP branch");
+ 
+}
+
 }
