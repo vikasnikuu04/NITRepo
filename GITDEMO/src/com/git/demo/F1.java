@@ -12,7 +12,7 @@ public class F1 {
 	}
 
  
-		 System.out.println("git pull origin master- Branch 1-otp);
+		 System.out.println("git pull --all);
 	}
 
  
