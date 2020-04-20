@@ -7,7 +7,7 @@ public class F1 {
 		System.out.println("TL updated");
  
 		 
-		System.out.println("updated branch");
+		System.out.println("updated branch when checkout is master");
 	}
 
 }
