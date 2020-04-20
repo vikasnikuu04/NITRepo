@@ -7,7 +7,7 @@ public class F1 {
 		 
 		System.out.println("TL updated");
  
-	System.out.println("git pull origin master  - no wbranch otap");
+	System.out.println("git pull origin master);
 		
  
 	}
