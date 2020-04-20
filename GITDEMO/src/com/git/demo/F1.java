@@ -12,7 +12,7 @@ public class F1 {
 	}
 
  
-		 System.out.println("git pull --all);
+		 System.out.println("git pull --all 2nd time);
 	}
 
  
